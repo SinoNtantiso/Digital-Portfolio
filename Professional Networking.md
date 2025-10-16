@@ -5,7 +5,7 @@
 ### Evidence
 
 - Although I have not yet established professional networking relationships within the industry, I have engaged in preliminary efforts to prepare for future networking opportunities.
-- **Screenshots of LinkedIn Profile**: ![LinkedIn Profile](www.linkedin.com/in/sinokhanyo-ntantiso-7044b8345) (upload a screenshot of your LinkedIn profile)
+- **Screenshots of LinkedIn Profile**: ![LinkedIn Profile](www.linkedin.com/in/sinokhanyo-ntantiso-7044b8345) ([upload a screenshot of your LinkedIn profile](https://github.com/SinoNtantiso/Digital-Portfolio/blob/main/Screenshot%202025-10-17%20001413.png))
 
 ### Reflection (STAR Technique)
 
@@ -24,5 +24,6 @@
   - This experience has laid a strong foundation for my future networking efforts, equipping me with the knowledge and tools to build meaningful professional relationships.
 
 ---
+
 
 
