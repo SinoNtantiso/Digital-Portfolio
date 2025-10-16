@@ -5,7 +5,7 @@
 ### Evidence
 
 - I participated in a mock interview organized by my training program. This session aimed to simulate a real interview environment, allowing me to practice and refine my interviewing skills.
-- **Video Recording**: [Link to Video Recording] ("https://github.com/wil-it2025/cv-tutorial-SinoNtantiso/blob/main/Mock%20video%20for%20prp1.mp4")
+- **Video Recording**: [Link to Video Recording] ("https://github.com/SinoNtantiso/Digital-Portfolio/blob/main/Mock%20video%20for%20prp1%20(1).mp4")
 
 ### Reflection (STAR Technique)
 
@@ -24,6 +24,7 @@
   - Overall, this mock interview was a valuable step in my preparation for real interviews, equipping me with insights to enhance my performance in future situations.
 
 ---
+
 
 
 
