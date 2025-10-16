@@ -5,9 +5,7 @@
 ### Evidence
 
 - Although I have not yet established professional networking relationships within the industry, I have engaged in preliminary efforts to prepare for future networking opportunities.
-- **Screenshots of LinkedIn Profile**: ![LinkedIn Profile](link-to-screenshot) (upload a screenshot of your LinkedIn profile)
-- **Event Flyers**: ![Networking Event Flyer](link-to-flyer) (upload flyers from events you planned to attend or have attended)
-- **Notes from Networking Workshops**: (upload notes or summaries from any workshops or seminars on networking)
+- **Screenshots of LinkedIn Profile**: ![LinkedIn Profile](www.linkedin.com/in/sinokhanyo-ntantiso-7044b8345) (upload a screenshot of your LinkedIn profile)
 
 ### Reflection (STAR Technique)
 
@@ -26,4 +24,5 @@
   - This experience has laid a strong foundation for my future networking efforts, equipping me with the knowledge and tools to build meaningful professional relationships.
 
 ---
+
 
