@@ -13,6 +13,10 @@
   - I participated in team meetings where we discussed the importance of addressing others respectfully and valuing each team member's contributions.
   - Observed a situation in which a team member handled criticism gracefully, demonstrating the value of constructive feedback.
 
+- **Summary of Workplace Etiquette Policies**: During my training, I learned about key workplace etiquette principles, including respectful communication, punctuality, and professional appearance.
+- **Reflection on Team Project**: In a group project, I actively listened to my teammates and worked to maintain a positive atmosphere, which helped us complete our work ahead of schedule.
+- **Informal Feedback**: My peers expressed appreciation for my collaborative approach during team discussions, noting that I helped facilitate open communication.
+
 ### Reflection (STAR Technique)
 
 - **Situation**: During a group project as part of my training program, I recognized the need to demonstrate professional behavior to ensure a productive and respectful working environment.
@@ -30,4 +34,5 @@
   - As a result, I received positive feedback from both my peers and our supervisor, who noted that our team demonstrated strong communication and cooperation throughout the project. This experience has equipped me with valuable skills that I will carry into future professional environments.
 
 ---
+
 
